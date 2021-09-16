@@ -1,0 +1,1 @@
+# 词表，可以来源于原来预训练的，也可以使用huggingface的tokenizers包训练词表
